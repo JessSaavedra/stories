@@ -1,6 +1,10 @@
 <script>
 	import { Swiper, SwiperSlide } from 'swiper/svelte';
 	import { Autoplay, EffectCube, Navigation, Pagination } from "swiper";
+	import 'swiper/css'
+	import 'swiper/css/effect-cube'
+	import 'swiper/css/pagination'
+	import 'swiper/css/navigation'
 
 	const pagination = {
 		clickable: true,
