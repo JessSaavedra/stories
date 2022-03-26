@@ -37,7 +37,7 @@ div.swiper-button-prev {
 	left: 0;
 }
 
-.swiper-horizontal > .swiper-pagination-bullets {
+div.swiper-horizontal > .swiper-pagination-bullets {
 	bottom: unset;
 	box-sizing: border-box;
 	display: flex;
