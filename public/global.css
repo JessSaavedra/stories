@@ -1,0 +1,83 @@
+html, body {
+	position: relative;
+	width: 100%;
+	height: 100%;
+}
+
+body {
+	color: #333;
+	margin: 0;
+	box-sizing: border-box;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+}
+
+.stories {
+	margin: 0 auto;
+	max-width: 30rem;
+}
+
+div.swiper-button-next,
+div.swiper-button-prev {
+	height: 100%;
+	margin-top: 0;
+	padding: 0 1rem;
+	top: 0;
+}
+
+.swiper-button-next::after,
+.swiper-button-prev::after {
+	display: none;
+}
+
+div.swiper-button-next {
+	right: 0;
+}
+
+div.swiper-button-prev {
+	left: 0;
+}
+
+.swiper-horizontal > .swiper-pagination-bullets {
+	bottom: unset;
+	box-sizing: border-box;
+	display: flex;
+	padding: 0 4px;
+	top: 11px;
+}
+
+.swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet {
+	background-color: white;
+	border-radius: 16px;
+	flex-grow: 1;
+	height: 2px;
+	opacity: 1;
+}
+
+.swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet-active {
+	background-color: hsla(0, 0%, 100%, .2);
+	position: relative;
+}
+
+.swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet-active ~ .swiper-pagination-bullet {
+	background-color: hsla(0, 0%, 100%, .2);
+}
+
+.swiper-horizontal > .swiper-pagination-bullets .swiper-pagination-bullet-active::after {
+	animation: timer 5s linear;
+	background-color: white;
+	content: '';
+	height: 100%;
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 100%;
+}
+
+@keyframes timer {
+	0% {
+		width: 0;
+	}
+	100% {
+		width: 100%;
+	}
+}
