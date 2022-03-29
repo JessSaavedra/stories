@@ -31,7 +31,7 @@
 			disableOnInteraction: false,
   }}
 	>
-		<SwiperSlide><img class="story" src="https://i.pinimg.com/originals/09/a8/76/09a876a502006380101f3f072421d4b3.jpg" alt="instagram story"/></SwiperSlide>
+		<SwiperSlide><img class="story" src="https://user-images.githubusercontent.com/7197057/160695939-d64d3437-4324-4f11-8749-cef0c603f1e8.png" alt="instagram story"/></SwiperSlide>
 		<SwiperSlide><img class="story" src="https://i.pinimg.com/originals/09/a8/76/09a876a502006380101f3f072421d4b3.jpg" alt="instagram story"/></SwiperSlide>
 		<SwiperSlide><img class="story" src="https://i.pinimg.com/originals/09/a8/76/09a876a502006380101f3f072421d4b3.jpg" alt="instagram story"/></SwiperSlide>
 		<SwiperSlide><img class="story" src="https://i.pinimg.com/originals/09/a8/76/09a876a502006380101f3f072421d4b3.jpg" alt="instagram story"/></SwiperSlide>
