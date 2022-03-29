@@ -31,10 +31,10 @@
 			disableOnInteraction: false,
   }}
 	>
-		<SwiperSlide><img class="story" src="https://user-images.githubusercontent.com/7197057/160695939-d64d3437-4324-4f11-8749-cef0c603f1e8.png" alt="instagram story"/></SwiperSlide>
-		<SwiperSlide><img class="story" src="https://i.pinimg.com/originals/09/a8/76/09a876a502006380101f3f072421d4b3.jpg" alt="instagram story"/></SwiperSlide>
-		<SwiperSlide><img class="story" src="https://i.pinimg.com/originals/09/a8/76/09a876a502006380101f3f072421d4b3.jpg" alt="instagram story"/></SwiperSlide>
-		<SwiperSlide><img class="story" src="https://i.pinimg.com/originals/09/a8/76/09a876a502006380101f3f072421d4b3.jpg" alt="instagram story"/></SwiperSlide>
+		<SwiperSlide><img class="story" src="https://user-images.githubusercontent.com/7197057/160722373-57da3478-3fac-4774-a4a9-9f4660638c8e.png" alt="instagram story"/></SwiperSlide>
+		<SwiperSlide><img class="story" src="https://user-images.githubusercontent.com/7197057/160722371-637eb18b-2db2-4433-9094-791ede9951af.png" alt="instagram story"/></SwiperSlide>
+		<SwiperSlide><img class="story" src="https://user-images.githubusercontent.com/7197057/160722370-8da95358-3867-4e5c-a6f2-5675265ab5fe.png" alt="instagram story"/></SwiperSlide>
+		<SwiperSlide><img class="story" src="https://user-images.githubusercontent.com/7197057/160722365-5b7fbb46-85e7-4ff4-ad81-a36d494431dd.png" alt="instagram story"/></SwiperSlide>
 	</Swiper>
 </main>
 
