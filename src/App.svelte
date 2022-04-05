@@ -35,6 +35,9 @@
 		<SwiperSlide><img class="story" src="https://user-images.githubusercontent.com/7197057/160722371-637eb18b-2db2-4433-9094-791ede9951af.png" alt="instagram story"/></SwiperSlide>
 		<SwiperSlide><img class="story" src="https://user-images.githubusercontent.com/7197057/160722370-8da95358-3867-4e5c-a6f2-5675265ab5fe.png" alt="instagram story"/></SwiperSlide>
 		<SwiperSlide><img class="story" src="https://user-images.githubusercontent.com/7197057/160722365-5b7fbb46-85e7-4ff4-ad81-a36d494431dd.png" alt="instagram story"/></SwiperSlide>
+		<SwiperSlide><img class="story" src="https://user-images.githubusercontent.com/7197057/161784353-b131f998-535b-4d6b-b51c-8c12610e24fc.png" alt="instagram story"/></SwiperSlide>
+		<SwiperSlide><img class="story" src="https://user-images.githubusercontent.com/7197057/161784358-ed1069d8-b02b-404f-9409-b53396a40d1b.png" alt="instagram story"/></SwiperSlide>
+		<SwiperSlide><img class="story" src="https://user-images.githubusercontent.com/7197057/161784367-76603bc6-8674-4b78-b1c3-b89af1980594.png" alt="instagram story"/></SwiperSlide>
 	</Swiper>
 </main>
 
